@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\lirim\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\lirim\\.nuget\\packages"
+    ]
+  }
+}
